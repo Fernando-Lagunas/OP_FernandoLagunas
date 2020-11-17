@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OP_FernandoLagunas</string>
+    <string name="numero1">Escribe un numero</string>
+    <string name="numero2">Escribe un numero</string>
+    <string name="respuesta">0</string>
+    <string name="button_suma">suma</string>
+    <string name="button_resta">resta</string>
+    <string name="button_multiplicacion">multiplicacion</string>
+    <string name="button_division">division</string>
+</resources>
